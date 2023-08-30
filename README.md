@@ -130,8 +130,4 @@ flutter run
  </table>
 ```
 
-## Team NiceTRY -- Members:
-### [Merthan **Kavak**](https://github.com/merthankavak)  
-### [Alper **Tekin**](https://github.com/alpertknn)  
-### [İlker **Kararmış**](https://github.com/Inventore0)  
 
