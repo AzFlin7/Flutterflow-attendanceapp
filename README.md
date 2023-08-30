@@ -1,10 +1,6 @@
 # Attendance System / Flutter App
-> A Deep Learning Based Attendance System is a mobile application that aims to make it easier for lecturers to check the attendance status of students which are attending the course. With the Deep Learning based attendance system, the data of each student in class will be uploaded to the system for the face recognition system. The Deep Learning based attendance system will analyze the students attendance with the data that is already collected and guide the teacher on the attendance process.
+This is a flutterflow attendance demo project.
 #
-
-## Demo
-
-https://youtu.be/Llr_UpnNSdY
 
 ## Architecture of Project:
 
@@ -26,23 +22,9 @@ First things first: you must properly set the following environment variable (/a
 
 **Attendance System Backend Service:**
 
-```
-https://github.com/merthankavak/attendance_system
-```
-
 **Step 1:**
 
-Download or clone this repo by using the link below:
-
-```
-https://github.com/merthankavak/attendancesystem_flutter
-```
-
-for **ssh** 
-
-```
-git clone git@github.com:merthankavak/attendancesystem_flutter.git
-```
+Download or clone this repo
 
 **Step 2:**
 
