@@ -1,0 +1,188 @@
+{
+    "splash": {
+        "welcome": "Welcome to Attendance System"
+    },
+    "onBoard": {
+        "page1": {
+            "title": "Attendance System",
+            "desc": "Attendance system will analyze the students attendance with the data that is already collected."
+        },
+        "page2": {
+            "title": "Face Recognition",
+            "desc": "The attendance status of the students in the courses is processed by face recognition algorithms using the photos of the students."
+        },
+        "page3": {
+            "title": "Easy To Use",
+            "desc": "This application that aims to make it easier for lecturers to check the attendance status of students."
+        }
+
+    },
+    "setting": {
+        "title": "Settings",
+        "about": {
+            "title": "About",
+            "appInfo": "Application Tour"
+        },
+        "appSettings": {
+            "title": "Application Settings",
+            "themeTitle": "Theme",
+            "themeDesc": "You can change applicaton theme.",
+            "langTitle": "Language",
+            "langDesc": "You can change applicaton language."
+        }
+    },
+
+    "login": {
+        "tab1": "Teacher",
+        "tab2": "Student",
+        "name": "Full Name",
+        "email": "Email",
+        "password": "Password",
+        "forgotText": "Forgot Password",
+        "login": "Login",
+        "dontAccount": "Don't have an account? ",
+        "alreadyAccount": "Already have an account? ",
+        "continueWithoutLogin": "Continue Without Login",
+        "terms": "Terms and Conditions",
+        "signup": "Sign Up",
+        "alert": {
+            "title": " Verify Your Account",
+            "desc": "Verification link has been sent to your email address",
+            "button": "Okay"
+        }
+    },
+
+    "forgotpassword": {
+
+        "title": "Forgot Your Password?\n\n",
+        "desc": "Enter your email and we will send you a code to reset your password",
+        "email": "Email",
+        "hint": "Enter your email",
+        "usertype": "Select your user type",
+        "send": "Send"
+    },
+    "confirmotp": {
+
+        "title": "Confirm the Code\n\n",
+        "desc": "Enter the 6 digits code to reset your password",
+        "receive": "Did'nt receive the code? ",
+        "resend": "Resend",
+        "confirm": "Confirm",
+        "expired": "Code expires after ",
+        "second": " seconds",
+        "alert": {
+            "title": " Transaction Successfull",
+            "desc": "Code resend successfully",
+            "button": "Okay"
+        }
+    },
+    "changepassword": {
+
+        "title": "Change Password\n\n",
+        "desc": "Enter your new password",
+        "password": "New Password",
+        "confirmpassword": "Confirm New Password",
+        "confirm": "Confirm",
+        "alert": {
+            "title": " Transaction Successfull",
+            "desc": "Your password successfully changed",
+            "button": "Okay"
+        }
+    },
+
+    "course": {
+        "title": "Attendance System",
+        "detail": {
+            "bottombar": {
+                "first": "Home",
+                "sec": "Students",
+                "third": "Attendance"
+            },
+            "time": "Time",
+            "code": "Course Code"
+        },
+        "student": {
+            "student": "Student",
+            "title": "Join Course\n\n",
+            "tooltip": "Join Course",
+            "desc": {
+                "title": "To sign in with a course code",
+                "desc1": "• Ask your teacher for the course code, then enter it here\n",
+                "desc2": "• Use a course code with 6 letters or numbers, and no spaces or symbols\n"
+            },
+            "button": "Join",
+            "alert": {
+                "title": " Warning",
+                "desc": "First you need to upload a photo!",
+                "button": "Go to Profile"
+            },
+            "hint": "Enter the course code",
+            "unenroll": "Unenroll"
+        },
+        "teacher": {
+            "teacher": "Teacher",
+            "title": "Create Course\n\n",
+            "tooltip": "Create Course",
+            "desc": {
+                "title": "To create course",
+                "desc1": "• Enter the course details\n"
+            },
+            "button": "Create",
+            "coursenNameHint": "Enter the course name",
+            "coursenShortNameHint": "Enter the course short name",
+            "delete": "Delete Course",
+            "share": "Share Course Code",
+            "schedule": {
+                "title": "Course Schedule",
+                "courseStartDate": "Enter the course start date",
+                "courseEndDate": "Enter the course end date",
+                "courseStartTime": "Enter the course start time",
+                "courseEndTime": "Enter the course end time",
+                "button": "Continue"
+            },
+            "settings": {
+                "title": "Course Settings",
+                "coursenNameHint": "Update the course name",
+                "coursenShortNameHint": "Update the course short name",
+                "button": "Update"
+            },
+            "attendance": {
+                "photo": "Photo Library",
+                "camera": "Camera",
+                "edit": "Edit",
+                "tot": "Total",
+                "participants": "Participants",
+                "absent": "Absent",
+                "accuracy": "Accuracy",
+                "attendancePhoto": "Attendance Photo"
+            }
+
+        }
+    },
+
+    "profile": {
+        "appbar": "Profile",
+        "account": {
+            "title": "My Account",
+            "photoTitle": "Change Profile Picture",
+            "photoDesc": "You can change your profile picture",
+            "passwordTitle": "Change Password",
+            "passwordDesc": "You can change your password",
+            "password": "New Password",
+            "confirmPassword": "Confirm Your New Password",
+            "fullName": "Full Name",
+            "fullNameTitle": "Change Full Name",
+            "fullNameDesc": "You can change your full name",
+            "button": "Update"
+        },
+        "exit": {
+            "logout": "Logout"
+        }
+    },
+
+    "menu": {
+        "welcome": "Welcome To Attendance System",
+        "logout": "Logout"
+    }
+
+}

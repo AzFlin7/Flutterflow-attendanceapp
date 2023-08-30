@@ -1,0 +1,185 @@
+{
+    "splash": {
+        "welcome": "Yoklama Sistemine Hoşgeldiniz"
+    },
+    "onBoard": {
+        "page1": {
+            "title": "Yoklama Sistemi",
+            "desc": "Yoklama sistemi, önceden toplanan verilerle öğrencilerin katılımını analiz edecektir."
+        },
+        "page2": {
+            "title": "Yüz Tanıma",
+            "desc": "Kurslardaki öğrencilerin katılım durumu, öğrencilerin fotoğraflarını kullanarak yüz tanıma algoritmaları tarafından işlenir."
+        },
+        "page3": {
+            "title": "Kullanımı Kolay",
+            "desc": "Bu uygulama, öğrencilerin derslerdeki devamsızlıklarını kolayca kontrol etmelerini amaçlamaktadır."
+        }
+    },
+    "setting": {
+        "title": "Ayarlar",
+        "about": {
+            "title": "Hakkında",
+            "appInfo": "Uygulama Turu"
+        },
+        "appSettings": {
+            "title": "Uygulama Ayarları",
+            "themeTitle": "Tema",
+            "themeDesc": "Uygulama temasını değiştirebilirsiniz.",
+            "langTitle": "Dil",
+            "langDesc": "Uygulama dilini değiştirebilirsiniz."
+        }
+    },
+
+    "login": {
+        "tab1": "Öğretmen",
+        "tab2": "Öğrenci",
+        "email": "E-posta",
+        "name": "Ad Soyad",
+        "password": "Parola",
+        "forgotText": "Parolanızı mı unuttunuz",
+        "login": "Giriş Yap",
+        "dontAccount": "Hesabın yok mu? ",
+        "alreadyAccount": "Zaten hesabınız var mı? ",
+        "continueWithoutLogin": "Giriş yapmadan devam edin",
+        "terms": "Şartlar ve koşullar",
+        "signup": "Kayıt Ol",
+        "alert": {
+            "title": " Hesabınızı Doğrulayın",
+            "desc": "Doğrulama bağlantısı e-posta adresinize gönderildi",
+            "button": "Tamam"
+        }
+    },
+
+    "forgotpassword": {
+
+        "title": "Parolanızı Mı Unuttunuz?\n\n",
+        "desc": "E-postanızı girin ve şifrenizi sıfırlamak için size bir kod gönderelim.",
+        "email": "E-posta",
+        "hint": "E-postanızı giriniz",
+        "usertype": "Kullanıcı türünüzü seçin",
+        "send": "Gönder"
+    },
+    "confirmotp": {
+
+        "title": "Kodu Onayla\n\n",
+        "desc": "Şifrenizi sıfırlamak için 6 haneli kodu girin",
+        "receive": "Kodu almadın mı? ",
+        "resend": "Tekrar Yolla",
+        "confirm": "Doğrula",
+        "expired": "Kodun süresinin dolmasına  ",
+        "second": " saniye",
+        "alert": {
+            "title": " İşlem Başarılı",
+            "desc": "Kod başarıyla tekrar yollandı",
+            "button": "Tamam"
+        }
+    },
+    "changepassword": {
+
+        "title": "Şifre Değiştir\n\n",
+        "desc": "Yeni şifrenizi giriniz",
+        "password": "Yeni Şifre",
+        "confirmpassword": "Yeni Şifreyi Onayla",
+        "confirm": "Onayla",
+        "alert": {
+            "title": " İşlem Başarılı",
+            "desc": "Şifren başarıyla değişti",
+            "button": "Anasayfaya Git"
+        }
+    },
+    "course": {
+        "title": "Yoklama Sistemi",
+        "detail": {
+            "bottombar": {
+                "first": "Anasayfa",
+                "sec": "Öğrenciler",
+                "third": "Yoklama"
+            },
+            "time": "Zaman",
+            "code": "Kurs kodu"
+        },
+        "student": {
+            "student": "Öğrenci",
+            "title": "Kursa Katıl\n\n",
+            "tooltip": "Kursa Katıl",
+            "desc": {
+                "title": "Kurs koduyla giriş yapmak için",
+                "desc1": "• Öğretmeninizden kurs kodunu isteyin, sonra buraya girin.\n",
+                "desc2": "• Boşluk ve sembol içermeyen 6 karakter içeren bir kurs kodunu kullanın.\n"
+            },
+            "alert": {
+                "title": " Uyarı",
+                "desc": " Öncelikle fotoğraf yüklemelisiniz!",
+                "button": "Profile Git"
+            },
+            "button": "Katıl",
+            "hint": "Kurs kodunu girin",
+            "unenroll": "Ayrıl"
+        },
+        "teacher": {
+            "teacher": "Öğretmen",
+            "title": "Kurs Oluştur\n\n",
+            "tooltip": "Kurs Oluştur",
+            "desc": {
+                "title": "Kurs oluşturmak için",
+                "desc1": "• Kurs ayrıntılarını girin\n"
+            },
+            "button": "Oluştur",
+            "coursenNameHint": "Kurs adını girin",
+            "coursenShortNameHint": "Kurs kısa adını girin",
+            "delete": "Kursu Sil",
+            "share": "Kurs Kodunu Paylaş",
+            "schedule": {
+                "title": "Kurs Zamanı",
+                "courseStartDate": "Kurs başlangıç tarihini girin",
+                "courseEndDate": "Kurs bitiş tarihini girin",
+                "courseStartTime": "Kurs başlangıç saatini girin",
+                "courseEndTime": "Kurs bitiş saatini girin",
+                "button": "Devam Et"
+            },
+            "settings": {
+                "title": "Kurs Ayarları",
+                "coursenNameHint": "Kurs adını güncelle",
+                "coursenShortNameHint": "Kurs kısa adını güncelle",
+                "button": "Güncelle"
+            },
+            "attendance": {
+                "photo": "Fotoğraf Kütüphanesi",
+                "camera": "Kamera",
+                "edit": "Düzenle",
+                "tot": "Toplam",
+                "participants": "Katılanlar",
+                "absent": "Katılmayanlar",
+                "confidence": "Doğruluk",
+                "attendancePhoto": "Yoklama Fotoğrafı"
+            }
+
+        }
+    },
+    "profile": {
+        "appbar": "Profil",
+        "account": {
+            "title": "Hesabım",
+            "photoTitle": "Profil Resmini Değiştir",
+            "photoDesc": "Profil resminizi değiştirebilirsiniz",
+            "passwordTitle": "Şifreni Değiştir",
+            "passwordDesc": "Şifrenizi değiştirebilirsiniz",
+            "password": "Yeni Şifre",
+            "confirmPassword": "Yeni şifrenizi onaylayın",
+            "fullName": "Ad Soyad",
+            "fullNameTitle": "Ad Soyad Değiştir",
+            "fullNameDesc": "Ad Soyadınızı değiştirebilirsiniz",
+            "button": "Güncelle"
+        },
+        "exit": {
+            "logout": "Çıkış Yap"
+        }
+    },
+
+    "menu": {
+        "welcome": "Yoklama Sistemine Hoşgeldiniz",
+        "logout": "Çıkış Yap"
+    }
+
+}
